@@ -35,6 +35,4 @@
 
 #### 3. API Design Usecases
 
-![API Design Usecases](/assets/api/api-design-usecases-template.png)
-
 - [Usecases API Design Template](https://docs.google.com/spreadsheets/d/1h_PBtAXbMbPNh0qw-Jk1ex9zWqn1LJOJWSFn1XkTeu8/edit?usp=sharing)
