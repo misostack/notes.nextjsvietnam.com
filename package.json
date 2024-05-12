@@ -1,0 +1,20 @@
+{
+  "name": "cheatsheet.jsbasevietnam.com",
+  "version": "1.0.0",
+  "description": "cheatsheet for programmers, developers",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "keywords": [
+    "cheatsheet",
+    "developers",
+    "programmers"
+  ],
+  "author": "jsbasevietnam",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.60"
+  }
+}
