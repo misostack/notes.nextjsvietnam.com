@@ -11,6 +11,7 @@ The confluence of all topics about programming, deployment, system design, cloud
 ## Databases
 
 1. [Postgresql](./databases/postgresql)
+2. [Mysql](./databases/mysql)
 
 ## Frameworks
 
